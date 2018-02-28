@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InterstitialBehaviour.iml" filepath="$PROJECT_DIR$/InterstitialBehaviour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterstitialAdsBehaviour.iml" filepath="$PROJECT_DIR$/InterstitialAdsBehaviour.iml" />
+      <module fileurl="file://D:\workspace\InterstitialAdsBehaviour\InterstitialBehaviour.iml" filepath="D:\workspace\InterstitialAdsBehaviour\InterstitialBehaviour.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\workspace\InterstitialAdsBehaviour\app\app.iml" filepath="D:\workspace\InterstitialAdsBehaviour\app\app.iml" />
     </modules>
   </component>
 </project>
